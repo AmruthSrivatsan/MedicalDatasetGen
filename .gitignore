@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Local clinical notes and generated datasets should not be published by default.
+/*.txt
+output*/
+*.jsonl
+
+# Keep the synthetic example committed.
+!examples/*.txt
+
+.env
+.venv/
+venv/

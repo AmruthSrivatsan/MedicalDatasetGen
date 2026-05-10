@@ -1,0 +1,77 @@
+Name: SYNTHETIC EXAMPLE              Unit No: SYNTHETIC
+
+Admission Date: [REDACTED]           Discharge Date: [REDACTED]
+
+Date of Birth: [REDACTED]            Sex: F
+
+Service: MEDICINE
+
+Allergies:
+Penicillin
+
+Attending: Dr. Synthetic
+
+Chief Complaint:
+Shortness of breath
+
+History of Present Illness:
+This is a fully synthetic example note for testing the pipeline. The patient
+presented with worsening shortness of breath, cough, and wheezing. She has a
+history of chronic obstructive pulmonary disease, hypertension, and atrial
+fibrillation. She improved after bronchodilator therapy and steroids.
+
+Past Medical History:
+- COPD
+- HTN
+- AFib
+
+Pertinent Results:
+ADMISSION LABS:
+WBC-12.4 Hgb-12.1 Creat-0.9 Na-138 K-4.1
+
+DISCHARGE LABS:
+WBC-8.8 Hgb-12.4 Creat-0.8 Na-139 K-4.0
+
+IMAGING:
+Chest X-ray showed no acute cardiopulmonary process.
+
+Brief Hospital Course:
+#COPD exacerbation:
+The patient was treated with scheduled nebulizer treatments, oral prednisone,
+and supplemental oxygen. Symptoms improved and she was weaned to room air.
+
+#Atrial fibrillation:
+Home apixaban was continued. Heart rate remained controlled.
+
+Transitional issues:
+Follow up with primary care and pulmonary clinic. Recheck respiratory symptoms
+after completion of prednisone taper.
+
+Medications on Admission:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of breath
+2. Apixaban 5 mg PO BID
+3. Lisinopril 10 mg PO DAILY
+
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of breath
+2. Apixaban 5 mg PO BID
+3. Lisinopril 10 mg PO DAILY
+4. PredniSONE 40 mg PO DAILY Duration: 4 Days
+
+Discharge Diagnosis:
+Primary diagnosis:
+Chronic obstructive pulmonary disease exacerbation
+
+Secondary diagnoses:
+Atrial fibrillation
+Hypertension
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Take medications as prescribed. Return for worsening shortness of breath,
+chest pain, fever, or confusion.
+
+Followup Instructions:
+Primary care follow-up within 1 week. Pulmonary clinic follow-up within 2 weeks.
