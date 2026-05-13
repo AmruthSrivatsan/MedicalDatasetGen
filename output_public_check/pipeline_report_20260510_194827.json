@@ -1,0 +1,27 @@
+{
+  "run_timestamp": "20260510_194827",
+  "judge_model": null,
+  "judge_enabled": false,
+  "input": "examples",
+  "files_processed": 1,
+  "total_generated": 10,
+  "total_passed": 9,
+  "total_rejected": 1,
+  "overall_pass_rate_pct": 90.0,
+  "judge_score_distribution": {},
+  "per_file": [
+    {
+      "file": "synthetic_discharge_note.txt",
+      "case_id": "CASE-E5A025809BBD",
+      "generated": 10,
+      "rule_passed": 9,
+      "rule_rejected": 1,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 9,
+      "final_rejected": 1,
+      "pass_rate_pct": 90.0,
+      "judge_used": false
+    }
+  ]
+}

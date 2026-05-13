@@ -1,0 +1,30 @@
+{
+  "run_timestamp": "20260510_184435",
+  "judge_model": "medgemma1.5:4b",
+  "judge_enabled": true,
+  "input": "26.txt",
+  "files_processed": 1,
+  "total_generated": 8,
+  "total_passed": 8,
+  "total_rejected": 0,
+  "overall_pass_rate_pct": 100.0,
+  "judge_score_distribution": {
+    "8": 2,
+    "9": 6
+  },
+  "per_file": [
+    {
+      "file": "26.txt",
+      "case_id": "CASE-BF29C041CF6E",
+      "generated": 8,
+      "rule_passed": 8,
+      "rule_rejected": 0,
+      "judge_passed": 8,
+      "judge_rejected": 0,
+      "final_passed": 8,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": true
+    }
+  ]
+}

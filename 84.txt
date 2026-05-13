@@ -1,0 +1,443 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Iodine-Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute onset left sided weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a delightful ___ year old woman with prior 
+paramedian pontine infarct (___) and right-sided 
+lenticulostriate territory infarct (___), hypertension, 
+hyperlipidemia,  colon cancer s/p resection and chemotherapy in
+___, and extensive tobacco use who presents with acute onset 
+left sided weakness that started at 2200 last night with her 
+left leg and evolved this AM to involve the left arm.
+
+As per Ms. ___, she returned from election campaign 
+headquarters last night between ___-22:30 and noted that her 
+left leg was giving way under her. She needed to use her cane to 
+walk. She had no sensory symptoms, no dysarthria, aphasia, arm 
+or facial weakness at this time. She spoke to her daughter on 
+the phone and then went to bed. This AM when she awoke, she 
+noticed
+that her left arm was weak as well. However, her left leg 
+weakness was much improved and she was able to walk without her 
+cane this AM.
+
+Of note, Ms. ___ was admitted to ___ two times with above 
+mentioned strokes and is followed by Dr. ___ in stroke 
+clinic. His note from ___ notes that Ms. ___ often has 
+vertiginous symptoms/ dizziness and has had repeated falls as a 
+result. Moreover, her eyesight and hearing have declined. His 
+note seems to suggest that she should be on 325mg ASA, but
+patient taking only 81mg.
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, tinnitus or hearing 
+difficulty. Denies difficulties producing or comprehending 
+speech.  Denies numbness, parasthesiae. No bowel incontinence or 
+retention. Has bladder incontinence at baseline she says and 
+takes a "blue pill" for it. Denies difficulty with gait.
+
+On general review of systems, the pt denies recent fever or 
+chills.  No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath.
+ 
+Past Medical History:
+- prior paramedian pontine infarct (___) 
+- right-sided lenticulostriate territory infarct ___
+- Hypertension as per prior medical records(patient denies)
+- Dyslipidemia 
+- Colon cancer 2/p right colectomy in ___ with prolonged
+stuttering course of adjuvant chemotherapy (diagnosed in setting
+of GI bleeding)
+- Cholecystectomy for chronic cholecystitis and gallstones in
+___
+- Diverticulosis
+- Hemorrhoids
+
+ 
+Social History:
+___
+Family History:
+Mother had stroke in her ___ or ___.  Her paternal 
+grandfather,
+father, and brother all had colon cancer.  Sister had ovarian
+cancer and has prostate cancer in her family.
+
+ 
+Physical Exam:
+=====================
+ADMISSION EXAM:
+=====================
+Physical Exam:
+Vitals: T:98.1   P:60  R: 16  BP:131/61  SaO2: 99% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, bilateral cataracts, no scleral icterus noted, 
+MMM,
+no lesions noted in oropharynx.
+Neck: Supple
+Pulmonary: Lungs CTA bilaterally
+Cardiac: RRR, nl. I/VI systolic murmur
+Abdomen: soft, NT/ND.
+Extremities: warm and well perfused.
+Skin: no rashes or lesions noted. Feet are dry and fissured.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Language is fluent with intact repetition 
+and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM on the right, SCM ___ on 
+the
+left.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. L arm held pronated. No
+adventitious movements, such as tremor, noted. 
+  Delt Bic Tri WrE IP Quad Ham TA Gastroc 
+L  3    ___  5-  5    5  5     5-    
+R  5    ___  5   5    5  5     5    
+-Sensory: No deficits to light touch and cold sensation
+throughout. No extinction to DSS.
+
+-DTRs:
+  Bi      Tri ___ Pat    Ach
+L  2brisk  2    2    2brisk  1
+R  2       2    2    2       1
+Plantar response was mute bilaterally.
+
+-Coordination: No dysmetria on FNF or HKS bilaterally.
+
+=======================
+DISCHARGE EXAM:
+=======================
+Physical Exam:
+Vitals: *** 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, bilateral cataracts, no scleral icterus noted, 
+MMM,
+no lesions noted in oropharynx.
+Neck: Supple
+Pulmonary: Lungs CTA bilaterally
+Cardiac: RRR, nl. I/VI systolic murmur
+Abdomen: soft, NT/ND.
+Extremities: warm and well perfused.
+Skin: no rashes or lesions noted. Feet are dry and fissured.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Language is fluent with intact repetition 
+and comprehension. Normal prosody. There were no paraphasic 
+errors. Pt was able to name both high and low frequency objects. 
+Speech was not dysarthric. Able to follow both midline and 
+appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM on the right, SCM ___ on 
+the
+left.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. L arm held pronated. No
+adventitious movements, such as tremor, noted. 
+  Delt Bic Tri WrE IP Quad Ham TA Gastroc 
+L  5    ___  5   5    5  5     5    
+R  5    ___  5   5    5  5     5  
+  
+-Sensory: No deficits to light touch and cold sensation
+throughout. No extinction to DSS.
+
+-DTRs:
+  Bi      Tri ___ Pat    Ach
+L  2       2    2    2       1
+R  2       2    2    2       1
+Plantar response was mute bilaterally.
+
+-Coordination: No dysmetria on FNF or HKS bilaterally.
+
+ 
+Pertinent Results:
+==================
+ADMISSION LABS:
+==================
+___ 09:30AM   NEUTS-63.7 ___ MONOS-5.6 EOS-1.2 
+BASOS-0.3
+___ 09:30AM   WBC-8.7 RBC-5.02 HGB-14.5 HCT-42.1 MCV-84 
+MCH-28.8 MCHC-34.4 RDW-14.7
+___ 09:30AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 09:30AM   TSH-0.98
+___ 09:30AM   ALBUMIN-3.9
+___ 09:30AM   cTropnT-<0.01
+___ 09:30AM   ALT(SGPT)-13 AST(SGOT)-27 ALK PHOS-93 TOT 
+BILI-0.3
+___:30AM   GLUCOSE-137* UREA N-12 CREAT-1.0 SODIUM-140 
+POTASSIUM-5.3* CHLORIDE-106 TOTAL CO2-25 ANION GAP-14
+___ 01:06PM   %HbA1c-6.5* eAG-140*
+___ 10:28AM   ___ PTT-31.6 ___
+
+==================
+DISCHARGE LABS:
+==================
+
+___ 07:30AM BLOOD WBC-8.1 RBC-4.78 Hgb-13.9 Hct-41.3 MCV-87 
+MCH-29.0 MCHC-33.5 RDW-14.7 Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 07:30AM BLOOD Glucose-132* UreaN-14 Creat-0.9 Na-144 
+K-4.0 Cl-111* HCO3-24 AnGap-13
+___ 07:30AM BLOOD Triglyc-PND HDL-PND
+
+==================
+IMAGING STUDIES:
+==================
+___: EKG
+Sinus bradycardia. Right bundle-branch block. Left anterior 
+fascicular block. Compared to the previous tracing of ___ 
+the recording is of poor technical quality. The ST-T wave 
+flattening in the inferolateral leads has improved. Otherwise, 
+no diagnostic interim change. 
+
+___: CHEST (PA & LAT)
+IMPRESSION:   
+Unchanged, mild to moderate cardiomegaly without a superimposed 
+acute 
+intrathoracic process. 
+
+___: MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST; MRA 
+NECK W/CONTRAST
+IMPRESSION: 
+1. No evidence of acute intracranial hemorrhage or mass effect. 
+2. Multiple punctate foci of slow diffusion with corresponding 
+low ADC signal within the right MCA distribution, as described, 
+compatible with acute to subacute infarcts. 
+3. Brain parenchymal volume loss and presumed sequelae of 
+chronic small vessel ischemic disease. 
+4. Intracranial vascular irregularity which is typical 
+atheromatous disease though no evidence of hemodynamically 
+significant stenosis, focal vessel cut off, or aneurysm within 
+the intracranial vasculature. 
+5. The left vertebral artery is small and its origin is not well 
+seen which is felt to likely represent stenosis. 
+
+___: BILAT LOWER EXT VEINS
+IMPRESSION:  
+No evidence of deep venous thrombosis in the bilateral lower 
+extremity veins. 
+
+___: 
+
+  
+ 
+
+ 
+Brief Hospital Course:
+___ year old woman with prior paramedian pontine infarct (___) 
+and right-sided lenticulostriate territory infarct (___), 
+hypertension, hyperlipidemia, colon cancer s/p resection and 
+chemotherapy in ___, and extensive tobacco use who presents 
+with acute onset left sided weakness concerning for stroke. 
+
+#left sided weakness: On the day of admission (___), patient's 
+left-sided weakness improved without a history of sensory 
+changes or other neurological symptoms.  Her exam on admission 
+was notable for left SCM, deltoid, and triceps weakness, as well 
+as mild weakness of her left IP and brisker reflexes on the 
+left. Patient underwent CT head, which revealed a new 
+hypodensity in the right frontal lobe, suggesting for acute and 
+subacute infarct, particularly given her extensive history of 
+infarcts in the past. Patient also underwent MRI brain and MRA, 
+which showed multiple R-sided scattered infarcts that could 
+explain her symptoms. Her infarcts seemed embolic. We wondered 
+about artery-to-artery due to atherosclerotic ICA disease vs.
+cardioembolic source. Of note, patient admitted that she was 
+non-compliant with her meds and continues to smoke.
+Echo showed LVEF >55% with no masses or thrombi. She was sent 
+home with a Holter monitor x 30 days. Because of patient's risk 
+factors, she was started on Plavix 75mg. It was discussed with 
+patient that she needed to be on high dose statin therapy, and 
+atorvastatin 80mg would be recommended, but patient declined 
+atorva stating that she had a side effect to another statin 
+other than rosuvastatin, and preferred to stay on rosuvastatin. 
+I explained that Crestor would not be ideal with current 
+guidelines, but based on her preference, she was sent home with 
+Crestor 40mg daily. Upon discharge, patient was back to her 
+baseline functional level and was symptom-free.  She will 
+continue to follow up with Dr. ___ in the clinic. 
+
+===========================================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (x) Yes [performed 
+and documented by admitting resident] – () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(x) Yes - () No
+
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+
+4. LDL documented (required for all patients)? (x) Yes (LDL = 
+101) - () No
+
+5. Intensive statin therapy administered? (x) Yes - () No [if 
+LDL >= 100, reason not given: ____ ]
+(intensive statin therapy = simvastatin 80mg, simvastatin 
+80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, rosuvastatin 
+20mg or 40mg, for LDL >= 100)
+
+6. Smoking cessation counseling given? (x) Yes - () No [if no, 
+reason: () non-smoker - () unable to participate]
+
+7. Stroke education given (written form in the discharge 
+worksheet)? (x) Yes - () No
+(stroke education = personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup)
+
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No [if no, reason not assessed: ____ ]
+
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >= 100 
+or on a statin prior to hospitalization, reason not discharged 
+on statin: ____ ]
+
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No [if no, reason not 
+discharge on anticoagulation: ____ ] - (x) N/A
+ 
+Medications on Admission:
+1. FoLIC Acid 1 mg PO DAILY 
+2. Oxybutynin 5 mg PO DAILY 
+3. Rosuvastatin Calcium 10 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Calcium Carbonate 500 mg PO TID 
+6. Fish Oil (Omega 3) 1000 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+2. FoLIC Acid 1 mg PO DAILY 
+3. Oxybutynin 5 mg PO DAILY 
+4. Rosuvastatin Calcium 40 mg PO DAILY 
+RX *rosuvastatin [Crestor] 40 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*5
+5. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+6. Calcium Carbonate 500 mg PO TID 
+7. Fish Oil (Omega 3) 1000 mg PO DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. Outpatient Physical Therapy
+___ y/o F with R-sided strokes, left-sided weakness
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cerebral embolism with infarction
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized due to symptoms of acute onset left sided 
+weakness that lasted 30mins, resulting from an ACUTE ISCHEMIC 
+STROKE, a condition in which a blood vessel providing oxygen and 
+nutrients to the brain is blocked by a clot. The brain is the 
+part of your body that controls and directs all the other parts 
+of your body, so damage to the brain from being deprived of its 
+blood supply can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+hypertension
+hyperlipidemia
+extensive tobacco use
+
+We are changing your medications as follows:
+Plavix 75mg DAILY
+Atovarstatin 80mg DAILY
+
+Please take your other medications as prescribed. It is 
+important to comply with the prescribed regimen and to STOP 
+smoking.
+Please followup with Neurology and your primary care physician 
+as listed below.
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- sudden partial or complete loss of vision
+- sudden loss of the ability to speak words from your mouth
+- sudden loss of the ability to understand others speaking to 
+you
+- sudden weakness of one side of the body
+- sudden drooping of one side of the face
+- sudden loss of sensation of one side of the body
+- sudden difficulty pronouncing words (slurring of speech)
+- sudden blurring or doubling of vision
+- sudden onset of vertigo (sensation of your environment 
+spinning around you)
+- sudden clumsiness of the arm and leg on one side or sudden 
+tendency to fall to one side (left or right)
+- sudden severe headache accompanied by the inability to stay 
+awake
+
+It was a pleasure providing you with care during this 
+hospitalization.
+
+The ___ Neurology service 
+ 
+Followup Instructions:
+___

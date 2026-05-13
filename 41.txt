@@ -1,0 +1,278 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+IV Dye, Iodine Containing Contrast Media / Oxycodone / 
+cilostazol / Varenicline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ y/o F with asthma, CAD s/p stents (reported by patient), 
+COPD, PAD, HTN, who presents with shortness of breath. The 
+patient was sitting at home ewhen she suddenly felt short of 
+breath. She drank some water and took nebulizers which she felt 
+helped some. She also has noticed hoarseness of her voice.  
+She presented because her symptoms have gotten worse throughout 
+the day. Denies fever/chills, sore throat. Says she does have a 
+cough from asthma and noticed increased wheezing. She had an 
+episode of substernal chest pain this morning that lasted ___ 
+minutes that was nonextertional. No radiation to jaw, arm, or 
+back. It resolved without any intervention. She reported some 
+leg swelling but says that has resolved. She denies PND, 
+orthopnea.  
+
+In the ED, initial vitals were:
+96.5 77 143/68 22 97% RA  
+
+Labs were notable for: 
+- Labs were significant for neg trop x1, normal CBC, normal 
+chemistry panel.  
+- CXR was negative. EKG shows LBBB consistent with prior.  
+
+Patient was given:
+The patient was given albuterol/ipra nebs, prednisone 60 mg x 1.
+
+Consults:
+ED spoke with Dr. ___ wanted admission for stress test 
+in morning. ED did not feel she is CDU candidate given she is on 
+theophylline and would require more than one day in hospital.  
+
+Vitals prior to transfer were: 71 149/73 20 94% RA  
+On arrival to floor, she denies chest pain. Shortness of breath 
+has improved after receiving inhalers.
+ 
+Past Medical History:
+ASTHMA/COPD/Tobacco use, Peripheral Arterial disease s/p recent 
+common iliac stenting, ATRIAL TACHYCARDIA, ATYPICAL CHEST PAIN, 
+CERVICAL RADICULITIS, CERVICAL SPONDYLOSIS, CORONARY ARTERY 
+DISEASE  
+HEADACHE, HIP REPLACEMENT, HYPERLIPIDEMIA, HYPERTENSION, 
+OSTEOARTHRITIS, HERPES ZOSTER, TOBACCO ABUSE, ATRIAL 
+FIBRILLATION  
+ANXIETY,GASTROINTESTINAL BLEEDING, OSTEOARTHRITIS, 
+ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, PERIPHERAL VASCULAR 
+DISEASE, CATARACT SURGERY ___  
+Surgery:  
+BILATERAL COMMON ILIAC ARTERY STENTING ___  
+BUNIONECTOMY  
+HIP REPLACEMENT  
+PRIOR CESAREAN SECTION  
+GANGLION CYST
+ 
+Social History:
+___
+Family History:
+Mother: ___, HTN  
+Father: ___ CA  
+Brother: CA?  
+Brother: ___ 
+ 
+Physical ___:
+===================
+ADMISSION PHYSICAL
+===================
+Vitals: 98.9 ___ 74 18 96% RA  
+General: Alert, oriented, no acute distress, breathing 
+comfortably  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Scattered wheezes throughout, bibasilar crackles, 
+moderate air movement.  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: Moves all extremities well  
+
+==================
+DISCHARGE PHYSICAL
+==================
+Vitals: T: 98.3 BP: 149/87 P: 83 R:18 O2: 98% ra
+General: NAD
+Lungs: Diffuse end expiratory wheezing. No crackles or rhonchi
+CV: RRR. no M/R/G
+Abdomen: NTND 
+Ext: No edema 
+ 
+Pertinent Results:
+=====================
+ADMISSION LABS
+=====================
+___ 06:15PM BLOOD WBC-5.7 RBC-4.46 Hgb-12.9 Hct-40.2 MCV-90 
+MCH-28.9 MCHC-32.1 RDW-14.6 RDWSD-48.5* Plt ___
+___ 06:15PM BLOOD Neuts-62.1 ___ Monos-9.4 Eos-0.3* 
+Baso-0.3 Im ___ AbsNeut-3.55 AbsLymp-1.59 AbsMono-0.54 
+AbsEos-0.02* AbsBaso-0.02
+___ 06:15PM BLOOD Glucose-96 UreaN-15 Creat-0.9 Na-138 
+K-3.8 Cl-96 HCO3-32 AnGap-14
+
+====================
+PERTINENT LABS
+====================
+___ 05:55AM BLOOD cTropnT-<0.01
+___ 12:16AM BLOOD cTropnT-<0.01
+___ 06:15PM BLOOD cTropnT-<0.01
+
+====================
+DISCHARGE LABS
+====================
+___ 05:55AM BLOOD WBC-4.8 RBC-4.13 Hgb-11.9 Hct-37.2 MCV-90 
+MCH-28.8 MCHC-32.0 RDW-14.6 RDWSD-47.8* Plt ___
+___ 05:55AM BLOOD ___ PTT-29.0 ___
+___ 05:55AM BLOOD Glucose-149* UreaN-17 Creat-0.8 Na-137 
+K-4.5 Cl-99 HCO3-29 AnGap-14
+___ 05:55AM BLOOD Calcium-9.6 Phos-2.9 Mg-2.0
+
+====================
+EKG
+====================
+___ 
+Baseline artifact. Probable ectopic atrial rhythm with frequent 
+premature 
+atrial contractions. Left bundle-branch block. Compared to the 
+previous 
+tracing of ___ ectopic atrial rhythm is new. 
+
+====================
+CXR
+====================
+___
+IMPRESSION:
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+___ y/o F with asthma, CAD s/p stents (reported by patient), 
+COPD, PAD, HTN, who presents with shortness of breath and 
+intermittent episode of chest pain. 
+
+# Mild COPD exacerbation: Patient with shortness of breath at 
+rest, no cough or increased sputum production. Exam with wheezes 
+on examination and some improvement with nebs/pred. Lower 
+suspicion for PNA given normal WBC and lack of fevers. Also no 
+evidence of volume overload on examination. Since patient only 
+has a mild exacerbation she will not require antibiotics. 
+Paitent will recieve 5 days of predinose (last day ___ in 
+addition to taking her home albuterol, fluticasone and 
+tiotropoium inhalers.
+
+# Episode of chest pain: There was a concern for ACS given 
+cardiac history but trops x 2 negative. EKG with no significant 
+changes from prior. The chest pain was non-exertional, resolved 
+without intervention prior to arriving at the hospital, likely 
+related to her COPD exacerbation.
+
+TRANSITIONAL ISSUES:
+[ ] Please confirm patient completed course of prednisone (last 
+day ___ with resolution of symptoms
+[ ] Consider outpatient stress testing if chest pain returns
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325 mg PO Q4H:PRN pain 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of 
+breath 
+3. Aspirin 81 mg PO DAILY 
+4. Clopidogrel 75 mg PO DAILY 
+5. Diltiazem Extended-Release 180 mg PO DAILY 
+6. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN nasal 
+congestion 
+7. Hydrochlorothiazide 50 mg PO DAILY 
+8. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+9. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE HS 
+10. Multivitamins W/minerals 1 TAB PO DAILY 
+11. Theophylline ER 300 mg PO BID 
+12. Tiotropium Bromide 1 CAP IH DAILY 
+13. Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath 
+14. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 
+315/200 mg oral daily 
+15. cod liver oil 1,250-135 unit oral BID 
+16. Atorvastatin 10 mg PO QPM 
+17. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+18. Guaifenesin-CODEINE Phosphate 5 mL PO Q6H:PRN cough 
+19. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+20. Ranitidine 150 mg PO BID 
+21. Lorazepam 0.5 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg PO Q4H:PRN pain 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of 
+breath 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 10 mg PO QPM 
+5. Clopidogrel 75 mg PO DAILY 
+6. Diltiazem Extended-Release 180 mg PO DAILY 
+7. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN nasal 
+congestion 
+8. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+9. Hydrochlorothiazide 50 mg PO DAILY 
+10. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+11. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE HS 
+12. Lorazepam 0.5 mg PO QHS:PRN insomnia 
+13. Multivitamins W/minerals 1 TAB PO DAILY 
+14. Ranitidine 150 mg PO BID 
+15. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+16. PredniSONE 40 mg PO DAILY Duration: 4 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*6 
+Tablet Refills:*0
+17. Theophylline ER 300 mg PO BID 
+18. Tiotropium Bromide 1 CAP IH DAILY 
+19. Guaifenesin-CODEINE Phosphate 5 mL PO Q6H:PRN cough 
+20. cod liver oil 1,250-135 unit oral BID 
+21. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 
+315/200 mg oral daily 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+COPD exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital for shortness of breath and 
+mild chest pain. While in the hospital we received an EKG and 
+blood work which suggested that your pain was not coming from 
+your heart. Your shortness of breath is likely from a COPD 
+attack and we gave you steroids and breathing treatments for 
+your symptoms. 
+
+You have a follow up appointment with Dr. ___ as detailed 
+below. We are also sending you home with a short course of 
+steroids for your COPD. Your other medications are detailed in 
+your discharge medication list.
+
+It was a pleasure taking care of you at ___.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

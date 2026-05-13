@@ -1,0 +1,333 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+IV Dye, Iodine Containing Contrast Media / Oxycodone / 
+cilostazol / Varenicline
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea, Atrial Fibrillation
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ F with pmhx of COPD (nighttime O2), htn, afib who presents 
+with dyspnea, currently being treated for COPD and admitted for 
+Afib with RVR.  
+ The patient went to the ED on ___ and was diagnosed with a 
+COPD flare. She was discharged with a prednisone taper 
+(currently on 60mg) and azithromycin. This AM she initially felt 
+well, then developed dyspnea at rest, worsening with exertion. 
+Her inhalers improved her SOB. She felt that these symptoms were 
+consistent with her COPD. She saw her PCP ___ today in 
+clinic where she was found to be in Afib w/ RVR, rate around 
+110-120. She has a history of afib. He referred her to the ED 
+for persistent SOB and afib with RVR. She states she been 
+compliant with nebs and steroid/azithro regimen. She denies any 
+___ edema, orthopnea. She denies recent travel, surgeries. She 
+had an episode of chest tightness this AM that felt like her 
+COPD flares. Denies fevers or coughing or production of sputum, 
+hemomptysis.  
+ 
+Past Medical History:
+ASTHMA/COPD  
+ ATYPICAL CHEST PAIN  
+ CERVICAL RADICULITIS  
+ CERVICAL SPONDYLOSIS  
+ CORONARY ARTERY DISEASE  
+ HEADACHE  
+ HIP REPLACEMENT  
+ HYPERLIPIDEMIA  
+ HYPERTENSION  
+ OSTEOARTHRITIS  
+ HERPES ZOSTER  
+ ATRIAL FIBRILLATION  
+ ANXIETY  
+ GASTROINTESTINAL BLEEDING  
+ OSTEOARTHRITIS  
+ ATHEROSCLEROTIC CARDIOVASCULAR DISEASE  
+ PERIPHERAL VASCULAR DISEASE
+ 
+Social History:
+___
+Family History:
+Mother: ___, HTN  
+Father: ___ CA  
+Brother: CA?  
+Brother: ___ 
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+VS: 98.14 154/74 71 24 98% 2L  
+ GENERAL: Well appearing, NAD, no accessory muscle use.  
+ HEENT: NCAT. Sclera anicteric. PERRL, EOMI.  
+ NECK: No JVD  
+ CARDIAC: Irregular rhythm, normal rate. Normal S1, S2. No 
+murmurs/rubs/gallops.  
+ LUNGS: Moving air well bilaterally. Trace inspiratory wheezing 
+and louder expiratory wheezing in all lung fields. No 
+crackles/rhonchi.  
+ ABDOMEN: Soft, NTND. No HSM or tenderness.  
+ EXTREMITIES: No c/c/e. No femoral bruits.  
+
+DISCHARGE PHYSICAL EXAM:
+VS: Tm 98.8 Tc 98.4 ___ RA
+GENERAL: NAD
+HEENT: NCAT. Sclera anicteric. Conjunctivae noninjected. OM 
+clear.
+NECK: No JVD  
+CARDIAC: RRR. Normal S1, S2. No murmurs/rubs/gallops.  
+LUNGS: Mildly reduced air movement, significant wheezing 
+bilaterally, +rhonchi, no crackles  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:38PM BLOOD WBC-7.2 RBC-4.06 Hgb-9.4* Hct-31.4* 
+MCV-77* MCH-23.2* MCHC-29.9* RDW-16.9* RDWSD-47.2* Plt ___
+___ 03:38PM BLOOD Neuts-93.8* Lymphs-4.2* Monos-1.3* 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-6.74*# AbsLymp-0.30* 
+AbsMono-0.09* AbsEos-0.00* AbsBaso-0.00*
+___ 03:38PM BLOOD ___ PTT-30.3 ___
+___ 03:38PM BLOOD Glucose-141* UreaN-20 Creat-1.0 Na-133 
+K-3.8 Cl-93* HCO3-30 AnGap-14
+___ 03:38PM BLOOD Calcium-9.9 Phos-2.8 Mg-2.1
+
+PERTINENT LABS:
+___ 03:58PM BLOOD cTropnT-<0.01
+___ 06:50AM BLOOD CK-MB-4 cTropnT-<0.01
+___ 06:50AM BLOOD calTIBC-398 Ferritn-16 TRF-306
+___ 06:50AM BLOOD TSH-4.5*
+___ 09:31AM BLOOD ___ pO2-73* pCO2-58* pH-7.35 
+calTCO2-33* Base XS-3     
+___ 07:15AM BLOOD T4, FREE, DIRECT DIALYSIS-Test  
+
+DISCHARGE LABS:    
+___ 05:30AM BLOOD WBC-13.2* RBC-3.97 Hgb-9.0* Hct-31.1* 
+MCV-78* MCH-22.7* MCHC-28.9* RDW-17.4* RDWSD-48.7* Plt ___
+___ 05:30AM BLOOD Glucose-85 UreaN-23* Creat-0.9 Na-136 
+K-3.9 Cl-95* HCO3-30 AnGap-15
+___ 06:30AM BLOOD Calcium-9.7 Phos-3.0 Mg-2.0
+
+IMAGING:
+___ Chest X ray: Relative increase in opacity over the lung 
+bases bilaterally felt due to overlying soft tissue rather than 
+consolidation.  Lateral view may be helpful for confirmation.
+
+___ Chest X ray: There is hyperinflation.  There is no 
+pneumothorax, effusion, consolidation or CHF.  There is probable 
+osteopenia.
+ 
+Brief Hospital Course:
+___ is a ___ with a history of CAD, PVD, and 
+COPD and history of recurrent chest pain who presented with afib 
+with RVR and COPD exacerbation. 
+  
+ACUTE PROBLEMS:
+
+#COPD exacerbation: Ms. ___ had had two recent ED visits 
+for COPD exacerbation, most recently ___ when she was started 
+on prednisone 60 mg. She presented to her PCP's office with 
+worsening dyspnea despite this therapy and was also complaining 
+of nasal congestion, suggesting a viral URI trigger. In clinic 
+she was also noted to be in afib with RVR so was referred to the 
+ED where she was admitted after control of her heart rate (see 
+below). On admission to the floor, she was noted to have 
+wheezing, increased work of breathing, and poor air movement. 
+She was treated with 125 mg solumedrol and maintained on 60 mg 
+PO prednisone daily. Her home theophylline was decreased from 
+400 mg BID to ___ mg BID due to concerns it was contributing to 
+her tachyarrhythmia. She was placed on ipratropium nebs q6h, 
+albuterol nebs q2h, and fluticasone-salmeterol. Pulmonary was 
+consulted and recommended a trial of diuresis so she received 10 
+mg IV Lasix as well. Azithromycin was not given due to concerns 
+for QT prolongation with theophylline and amiodarone (QTc was 
+460). She was started on a 5 day course of ceftriaxone instead, 
+and discharged to finish the course with cefpodoxime. She was 
+discharged with a prednisone taper (10 mg decrease q3d until at 
+10 mg, then stay at 10 mg until pulm follow up) as well as 
+follow up with pulmonary rehab and a pulmonologist she 
+previously followed with, Dr. ___. She was also discharged on 
+2L supplemental O2 to be worn at all times. 
+
+#Atrial fibrillation: Ms. ___ has known atrial 
+fibrillation for which she was on amiodarone and apixaban but 
+was found to have HR in the 120s in her PCP's office, prompting 
+her referral to the ED. Her COPD exacerbation was the likely 
+precipitant, with medications also possibly contributing, 
+particularly theophylline. She was started on a diltiazem gtt in 
+the ED to control her rates than transitioned to diltiazem 90 mg 
+q6h. After arrival to the floor, her rates remained controlled. 
+Her amiodarone and apixaban were continued. Her theophylline was 
+decreased to 200 mg BID from 400 mg BID.
+
+#Iron deficiency anemia. Patient was found to have microcytic 
+anemia with low iron and ferritin. She was started on IV iron 
+125 mg ferric gluconate x4 doses and wasdischarged on PO iron 
+with a bowel regimen. Her H/H was stable throughout the 
+hospitalized; there was no evidence of bleeding.
+
+Transitional issues:
+- patient discharged on prednisone taper: decrease by 10 mg 
+every 3 days until at 10 mg, then keep at 10 mg until seen by 
+pulmonology
+- patient discharged with plan to follow up with pulmonology and 
+pulmonary rehab. Can call ___ to schedule appointment 
+with pulmonary rehab.
+- patient discharged on with 2 days of cefpodoxime to complete 5 
+day course of antibiotics for severe COPD exacerbation
+- patient discharged with O2 concentrator for continuous home O2
+- patient's theophylline decreased from 300 mg BID to ___ mg BID 
+due to her afib with RVR; may want to consider further 
+theophylline wean, and addition of azithromycin (if QTc is 
+decreased as patient also on amiodarone), and/or roflumilast 
+therapy
+- patient found to be iron deficient, started on IV iron 
+repletion, discharged on PO iron
+- patient found to have elevated TSH, please follow up free T4 
+which was pending on discharge
+- Code: full
+- Emergency Contact ___ (Husband) ___ 
+Daughter ___: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Apixaban 5 mg PO BID 
+3. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of 
+breath 
+4. Amiodarone 200 mg PO DAILY 
+5. Atorvastatin 10 mg PO QPM 
+6. Artificial Tears ___ DROP BOTH EYES PRN irritation 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE QHS 
+8. Diltiazem Extended-Release 180 mg PO BID 
+9. Fluticasone Propionate NASAL 1 SPRY NU BID 
+10. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+11. Hydrochlorothiazide 50 mg PO DAILY 
+12. Isosorbide Mononitrate (Extended Release) 240 mg PO DAILY 
+13. Lorazepam 0.5 mg PO QHS:PRN insomnia 
+14. Theophylline ER 300 mg PO BID 
+15. Ranitidine 300 mg PO DAILY 
+16. Tiotropium Bromide 1 CAP IH DAILY 
+17. Multivitamins W/minerals 1 TAB PO DAILY 
+18. Aspirin 81 mg PO DAILY 
+19. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 
+
+ 
+Discharge Medications:
+1. Home O2
+2 Liters continuous nasal cannula with exertion
+Diagnosis: chronic obstructive pulmonary disease (J44.9)
+Length of Needs: ongoing (years)
+2. Acetaminophen 650 mg PO Q6H:PRN pain 
+3. Amiodarone 200 mg PO DAILY 
+4. Apixaban 5 mg PO BID 
+5. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN shortness of 
+breath 
+6. Artificial Tears ___ DROP BOTH EYES PRN irritation 
+7. Aspirin 81 mg PO DAILY 
+8. Atorvastatin 10 mg PO QPM 
+9. Diltiazem Extended-Release 180 mg PO BID 
+10. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 
+11. Fluticasone Propionate NASAL 1 SPRY NU BID 
+12. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+13. Hydrochlorothiazide 50 mg PO DAILY 
+14. Isosorbide Mononitrate (Extended Release) 240 mg PO DAILY 
+15. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE QHS 
+16. Lorazepam 0.5 mg PO QHS:PRN insomnia 
+17. Multivitamins W/minerals 1 TAB PO DAILY 
+18. Ranitidine 300 mg PO DAILY 
+19. Tiotropium Bromide 1 CAP IH DAILY 
+20. Theophylline SR 200 mg PO BID 
+RX *theophylline 200 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+21. Cefpodoxime Proxetil 200 mg PO Q12H Duration: 2 Days 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp #*4 
+Tablet Refills:*0
+22. Ferrous Sulfate 325 mg PO DAILY 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0
+23. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+24. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 1 powder(s) by mouth 
+daily Refills:*0
+25. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN dyspnea, wheezing 
+RX *ipratropium bromide 0.2 mg/mL  (0.02 %) 1 neb INH Every six 
+hours Disp #*30 Nebule Refills:*0
+26. PredniSONE 10 mg PO ASDIR 
+50 mg ___, then 
+40 mg ___, then
+30 mg ___, then
+20 mg ___, then
+10 mg ongoing 
+Tapered dose - DOWN 
+RX *prednisone 10 mg 1 to 5 tablet(s) by mouth As directed Disp 
+#*50 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+Chronic obstructive pulmonary disease
+Atrial fibrillation with rapid ventricular response
+
+Secondary diagnoses:
+Hypertension
+Coronary artery disease
+Peripheral vascular disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized at ___ 
+because you were having difficulty breathing and were found in 
+clinic to have a fast heart rate. Your difficulty breathing was 
+due to your COPD flaring. Your fast heart rate was due to your 
+atrial fibrillation, which is an irregular heart rate that can 
+sometimes cause the heart to beat very quickly. Medications that 
+you were taking, such as theophylline, were likely contributing. 
+Your heart rate was lowered using the same medication that you 
+take at home, diltiazem, given through your IV. 
+
+Your COPD was likely worsened because of a cold. However, your 
+flare was very serious requiring IV steroids and many inhaled 
+treatments. You should follow up with the lung doctors as ___ 
+as with pulmonary rehab to make sure your lung disease is being 
+treated as well as possible to prevent you from coming into the 
+hospital as often. Please call ___ to schedule an 
+appointment with them.
+
+It was a pleasure participating in your care. We wish you all 
+the best in the future.
+
+Sincerely,
+
+Your ___ team
+ 
+Followup Instructions:
+___

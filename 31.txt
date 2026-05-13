@@ -1,0 +1,343 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+IV Dye, Iodine Containing Contrast Media / Oxycodone / 
+cilostazol / Varenicline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with hx COPD on home O2, atrial 
+fibrillation on apixaban, hypertension, CAD, and hyperlipidemia, 
+with recurrent hospitalizations for COPD exacerbations, who 
+presented with dyspnea.
+  
+She has had multiple prior admissions for dyspnea. She was 
+recently discharged on ___ after 3 day inpatient admission for 
+COPD exacerbation. She was discharged on extended prednisone 
+taper with plan for 5d 40mg Prednisone (to finish ___ followed 
+by 10mg taper every 5 days (35mg from ___, 30mg ___, 
+etc...). 
+
+On the evening prior to presentation, patient experienced 
+worsening shortness of breath, nonproductive cough and wheezing 
+c/w prior COPD exacerbations. She reported taking inhalers as 
+directed, without relief. The patient reported that this is 
+almost identical to her last presentation. She also felt that 
+she was taking too many medications and does not wish to 
+continue to take prednisone. The patient was also noted to have 
+increased O2 requirement and she was referred to the ___ ED 
+for further management. Of note, please see prior admission note 
+for details regarding prior admission.  
+ 
+In the ED, initial vital signs were: 88 143/105 26 94% RA. Labs 
+were notable for normal BNP and a creatinine of 1.2. Patient was 
+given azithromycin and duoneb. Patient was scheduled to have 
+methylpred but did not have it administered until arrival to the 
+floor.  
+ Upon arrival to the floor, she complained of wheezing and SOB. 
+She otherwise felt well. She agreed to take the methyprednisone 
+but does not wish to take prednisone any more.  
+ 
+REVIEW OF SYSTEMS: Per HPI. Denies headache, visual changes, 
+pharyngitis, fevers, chills, sweats, weight loss, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, 
+hematochezia, dysuria, rash, paresthesias, and weakness.
+ 
+Past Medical History:
+- COPD/Asthma on home 2L O2
+- Atypical Chest Pain
+- Hypertension
+- Hyperlipidemia
+- Osteroarthritis
+- Atrial Fibrillation on Apixaban
+- Anxiety
+- Cervical Radiculitis
+- Cervical Spondylosis
+- Coronary Artery Disease
+- Headache
+- Herpes Zoster
+- GI Bleeding
+- Peripheral Vascular Disease s/p bilateral iliac stents
+- s/p hip replacement
+ 
+Social History:
+___
+Family History:
+Mother with asthma and hypertension. Father with colon cancer. 
+Brother with leukemia.
+
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+==================================
+ VITALS: 97.3 159/91 75  16  94% on 2L  
+ GENERAL: Pleasant, well-appearing, in no apparent distress.  
+ HEENT: Normocephalic, atraumatic, no conjunctival pallor or 
+scleral icterus, PERRLA, EOMI, OP clear.  
+ NECK: Supple, no LAD, no thyromegaly, JVP flat.  
+ CARDIAC: Normal S1/S2, no murmurs rubs or gallops.  
+ PULMONARY: Mild expiratory wheezes in all lung fields  
+ ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+ EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+ SKIN: Without rash.  
+ NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout.   
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+==================================
+ VITALS: 98.6 127-150/50-60  70-90'S 16  98% on 3L  
+ GENERAL: Pleasant, well-appearing, in no apparent distress.  
+ HEENT: Normocephalic, atraumatic, no conjunctival pallor or 
+scleral icterus, PERRLA, EOMI, OP clear.  
+ NECK: Supple, no LAD, no thyromegaly, JVP flat.  
+ CARDIAC: Normal S1/S2, no murmurs rubs or gallops.  
+ PULMONARY: Minimally decreased bilateral air entry, no wheezes 
+in all lung fields  
+ ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+ EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+ SKIN: Without rash.  
+ NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout.  
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+==================
+___ 06:15PM BLOOD WBC-7.7 RBC-4.92 Hgb-13.5 Hct-42.4 MCV-86 
+MCH-27.4 MCHC-31.8* RDW-19.6* RDWSD-61.2* Plt ___
+___ 06:15PM BLOOD Neuts-87.4* Lymphs-5.7* Monos-6.1 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-6.72* AbsLymp-0.44* 
+AbsMono-0.47 AbsEos-0.00* AbsBaso-0.01
+___ 06:15PM BLOOD ___ PTT-29.6 ___
+___ 06:15PM BLOOD Plt ___
+___ 06:15PM BLOOD Glucose-122* UreaN-21* Creat-1.2* Na-136 
+K-3.4 Cl-92* HCO3-31 AnGap-16
+___ 06:15PM BLOOD ALT-52* AST-34 AlkPhos-69 TotBili-0.3
+___ 06:15PM BLOOD Lipase-28
+___ 06:15PM BLOOD cTropnT-<0.01 proBNP-325
+___ 06:15PM BLOOD Albumin-4.2
+
+LABS ON DISHCHARGE:
+===================
+___ 06:40AM BLOOD WBC-10.3* RBC-4.20 Hgb-11.8 Hct-37.0 
+MCV-88 MCH-28.1 MCHC-31.9* RDW-19.9* RDWSD-65.1* Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD Glucose-112* UreaN-18 Creat-0.9 Na-137 
+K-3.6 Cl-96 HCO3-28 AnGap-17
+___ 06:40AM BLOOD Calcium-9.5 Phos-2.6* Mg-2.1
+
+IMAGING:
+========
+___ CXR:
+No acute cardiopulmonary process.
+
+ 
+Brief Hospital Course:
+___ yo F with history of COPD on home O2, atrial fibrillation on 
+apixaban, hypertension, CAD, hyperlipidemia, and recurrent 
+hospitalization for COPD exacerbation over the last 4 months, 
+who presented with dyspnea and increased wheezing secondary to 
+severe COPD.
+ 
+#Recurrent COPD exacerbation: Patient presented with increased 
+dyspnea and diffuse wheezing, likely secondary to COPD 
+exacerbation. She has a history of multiple recurrent COPD 
+hospitalizations. According to Pulmonary, patient has severe 
+COPD based on her obstructive deficits on PFTs as well as her 
+severe symptoms even at rest, as well as her more frequent 
+exacerbations and is likely approaching end-stage disease. We 
+continued Advair 500/50 BID, Spiriva, standing nebulizers, and 
+theophylline. Pulmonary recommended additional budesonide 
+inhalers to allow reduction of PO prednisone dose. Prednisone 
+dose was increased back to 40mg (where patient was better) with 
+a plan for slow wean by 5mg every 2 weeks. Also, patient was 
+started on chronic azithromycin for chronic anti-inflammation; 
+after discussion with Dr. ___ was agreed to stop 
+azithromycin on discharge due to inability to monitor QT the 
+week after discharge, with plan to restart azithromycin once Dr. 
+___ is able to see the patient. Patient did not want to go to 
+pulmonary rehab. She was seen by Palliative Care who recommended 
+initiation of morphine liquid suspension as needed for shortness 
+of breath.
+
+# Acute kidney injury: Creatinine was slightly elevated to 1.2 
+from a baseline of 1.0. She likely had poor PO intake. 
+Creatinine on discharge was 0.9.
+ 
+CHRONIC ISSUES:  
+==================  
+# Anxiety/Insomnia: We continued home lorazepam.
+ 
+# Atrial fibrillation: We continued diltiazem for rate control 
+and apixaban for anticoagulation.  
+ 
+# Hypertension: We continued home imdur, hydrochlorothiazide, 
+and diltiazem.  
+ 
+# CAD: Cardiac catheterization in ___ showed no evidence of 
+significant stenosis of coronaries. ECHO on ___ showed EF > 
+55% and no regional or global wall motion abnormalities. We 
+continued home aspirin and atorvastatin.
+ 
+# Anemia: We continued home iron supplements. 
+
+***TRANSITIONAL ISSUES:*** 
+- Continue Advair 500/50 BID, Spiriva, and theophylline 
+- Make sure patient receives standing nebulizers 
+- Added additional budesonide inhalers to allow reduction of PO 
+prednisone dose 
+- Start chronic azithromycin for chronic anti-inflammation. 
+(Patient was started on azithromycin in the hospital and QTc on 
+___ was 472 ms. ___ discussion with Dr. ___ was agreed 
+to stop azithromycin on discharge due to inability to monitor QT 
+the week after discharge, with the plan to restart azithromycin 
+once Dr. ___ is able to see the patient.)
+- Would recommend audiology testing at some point while patient 
+is on chronic azithromycin
+- Continue supplemental oxygen for comfort
+- Follow up with Dr. ___ discharge 
+- Continue Bactrim PPX (1 tab SS daily) given extended courses 
+of steroids 
+- Patient was discharged on prednisone 40 mg with plan for taper 
+by 5mg every 2 weeks:
+ Prednisone 40 mg for two weeks (Day 1= ___ end 
+___
+ Prednisone 35 mg for two weeks (Day 1= ___ end 
+___
+ Prednisone 30 mg for two weeks (Day 1= ___ end 
+___
+ etc...
+# CONTACT: ___ (husband/HCP) ___ 
+# CODE STATUS: Full confirmed 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325 mg PO Q4H:PRN Pain 
+2. albuterol sulfate 90 mcg/actuation inhalation Q4H 
+3. Apixaban 5 mg PO BID 
+4. Aspirin 81 mg PO DAILY 
+5. Atorvastatin 10 mg PO QPM 
+6. Diltiazem Extended-Release 240 mg PO BID 
+7. Docusate Sodium 100 mg PO BID 
+8. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 
+9. Ferrous Sulfate 325 mg PO DAILY 
+10. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies 
+11. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+12. Guaifenesin ___ mL PO Q4H:PRN cough 
+13. Hydrochlorothiazide 50 mg PO DAILY 
+14. Isosorbide Mononitrate (Extended Release) 240 mg PO DAILY 
+15. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+16. Lorazepam 0.5 mg PO Q8H:PRN Insomnia, anxiety, vertigo 
+17. Multivitamins 1 TAB PO DAILY 
+18. PredniSONE 30 mg PO DAILY 
+Tapered dose - DOWN 
+19. Ranitidine 300 mg PO DAILY 
+20. Theophylline SR 300 mg PO BID 
+21. Tiotropium Bromide 1 CAP IH DAILY 
+22. Levofloxacin 750 mg PO DAILY 
+23. Sulfameth/Trimethoprim SS 1 TAB PO DAILY prophylaxis for 
+long term steroid use 
+24. Calcitrate-Vitamin D (calcium citrate-vitamin D3) 315 mg - 
+200 units  oral DAILY 
+25. cod liver oil 1 capsule  oral BID 
+26. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN Wheezing 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg PO Q4H:PRN Pain 
+2. Calcitrate-Vitamin D (calcium citrate-vitamin D3) 315 mg - 
+200 units  oral DAILY 
+3. Tiotropium Bromide 1 CAP IH DAILY 
+4. Theophylline SR 300 mg PO BID 
+5. Sulfameth/Trimethoprim SS 1 TAB PO DAILY prophylaxis for long 
+term steroid use 
+6. Ranitidine 300 mg PO DAILY 
+7. PredniSONE 40 mg PO DAILY 
+8. Lorazepam 0.5 mg PO Q8H:PRN Insomnia, anxiety, vertigo 
+9. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+10. Isosorbide Mononitrate (Extended Release) 240 mg PO DAILY 
+11. Ipratropium Bromide Neb 1 NEB IH Q6H Wheezing 
+12. Hydrochlorothiazide 50 mg PO DAILY 
+13. Guaifenesin ___ mL PO Q4H:PRN cough 
+14. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+15. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies 
+16. Ferrous Sulfate 325 mg PO DAILY 
+17. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 
+18. albuterol sulfate 90 mcg/actuation inhalation Q4H 
+19. Apixaban 5 mg PO BID 
+20. Aspirin 81 mg PO DAILY 
+21. Atorvastatin 10 mg PO QPM 
+22. Diltiazem Extended-Release 240 mg PO BID 
+23. Docusate Sodium 100 mg PO BID 
+24. Sodium Chloride Nasal ___ SPRY NU QID:PRN nasal discomfort 
+RX *sodium chloride 0.65 % ___ spray QID nasal congestion Disp 
+#*1 Spray Refills:*0
+25. Morphine Sulfate (Oral Solution) 2 mg/mL 5 mg PO Q4H:PRN 
+shortness of breath 
+RX *morphine 10 mg/5 mL 2.5 mL by mouth every four (4) hours 
+Disp ___ Milliliter Milliliter Refills:*0
+26. Budesonide Nasal Inhaler 180 mcg Other DAILY 
+RX *budesonide [Pulmicort Flexhaler] 180 mcg/actuation (160 mcg 
+delivered) 1 puff INH DAILY Disp #*1 Inhaler Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Severe COPD
+
+SECONDARY DIAGNOSES:
+CAD
+Hypertension
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a great pleasure taking care of you at ___ 
+___. You came to the hospital because you 
+were experiencing worsening shortness of breath. Pulmonary team 
+saw you and reviewed your condition, and your symptoms are 
+thought to be related to severe COPD. We did some changes in 
+your medications and increased the dose of prednisone. The 
+Palliative Care team was consulted and started you on morphine 
+liquid suspension to help with your breathing symptoms.
+
+Please take all your medications on time and follow up with your 
+doctors as ___.
+
+Best regards,
+Your ___ team
+ 
+Followup Instructions:
+___

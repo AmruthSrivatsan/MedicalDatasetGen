@@ -1,0 +1,79 @@
+{
+  "run_timestamp": "20260510_183839",
+  "judge_model": null,
+  "judge_enabled": false,
+  "input": ".",
+  "files_processed": 5,
+  "total_generated": 49,
+  "total_passed": 49,
+  "total_rejected": 0,
+  "overall_pass_rate_pct": 100.0,
+  "judge_score_distribution": {},
+  "per_file": [
+    {
+      "file": "26.txt",
+      "case_id": "CASE-BF29C041CF6E",
+      "generated": 8,
+      "rule_passed": 8,
+      "rule_rejected": 0,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 8,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": false
+    },
+    {
+      "file": "31.txt",
+      "case_id": "CASE-7F680D1970CC",
+      "generated": 11,
+      "rule_passed": 11,
+      "rule_rejected": 0,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 11,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": false
+    },
+    {
+      "file": "41.txt",
+      "case_id": "CASE-B1B57E27C91B",
+      "generated": 9,
+      "rule_passed": 9,
+      "rule_rejected": 0,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 9,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": false
+    },
+    {
+      "file": "42.txt",
+      "case_id": "CASE-1613EA98AADB",
+      "generated": 11,
+      "rule_passed": 11,
+      "rule_rejected": 0,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 11,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": false
+    },
+    {
+      "file": "84.txt",
+      "case_id": "CASE-5BE086EDBEE8",
+      "generated": 10,
+      "rule_passed": 10,
+      "rule_rejected": 0,
+      "judge_passed": null,
+      "judge_rejected": null,
+      "final_passed": 10,
+      "final_rejected": 0,
+      "pass_rate_pct": 100.0,
+      "judge_used": false
+    }
+  ]
+}
